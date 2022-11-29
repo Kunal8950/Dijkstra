@@ -156,7 +156,7 @@ void Dijkstra_Parallel(Vertex *vertices, Edge *edges, int *weights, Vertex *root
 
 int main()
 {
-	freopen("Keshav.txt", "r", stdin);
+	freopen("Kunal.txt", "r", stdin);
 	scanf("%d",&V);
 	scanf("%d",&E);
 	Vertex vertices[V]; // Array of struct vertex named vertices[]
